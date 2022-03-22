@@ -1,1 +1,2 @@
-# Formacao_PowerBI
+# Formação Power BI - Alura
+Neste repositório estão os projetos desenvolvidos durante o estudo da formação Power BI da plataforma de ensino Alura que abrange deste técnicas de visualização utilizando a ferramenta quanto tratamento de dados no Power Query, utilização das linguagens M e DAX, modelagem dos dados, Power BI Service e Desktop, conexão com múltiplas fontes de dados, utilização das linguagens R e Python, web scraping com Power BI etc.
